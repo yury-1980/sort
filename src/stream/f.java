@@ -9,7 +9,7 @@ public class f {
 }
 
 
-public class FunctionalInterfacesExample {
+class FunctionalInterfacesExample {
     public static void main(String[] args) {
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6);
         // Predicate: фильтруем чётные числа
